@@ -1,0 +1,10 @@
+
+header img{
+    width: 10%;
+    display: flex;
+}
+
+header p{
+    text-align: end;
+    margin-right: 1%;
+}
